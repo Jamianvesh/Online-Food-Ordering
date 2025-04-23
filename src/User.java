@@ -161,7 +161,7 @@ public class User {
                     new customer();
                 }
                 if(!(usernt.getText().equals(Main.username)))
-                    JOptionPane.showMessageDialog(login,"Wrong admin name entered","Error",JOptionPane.WARNING_MESSAGE);
+                    JOptionPane.showMessageDialog(login,"Wrong user name entered","Error",JOptionPane.WARNING_MESSAGE);
                 if((usernt.getText().equals(Main.username)) && !(new String(userpt.getPassword()).equals(Main.userpass)))
                     JOptionPane.showMessageDialog(login,"Wrong password entered","Error",JOptionPane.WARNING_MESSAGE);
                 usernt.setText("");
