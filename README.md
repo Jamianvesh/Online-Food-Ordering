@@ -120,3 +120,7 @@ Upon opening it , menu card will be seen if he presses food and drink buttons.
 
    Customer can view his past order details in myorders page .
 
+##### Final thank you page :
+
+Customer is greeted with Thank You page , indicating the successfull order .
+
