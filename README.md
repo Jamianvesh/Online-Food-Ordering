@@ -48,6 +48,7 @@
 ### Features overview :-
 
 Upon opening the interface , a front page will open with "click me" button which on clicking , a dashboard will open asking the user to proceed as either admin or customer .
+![images/p1.png](images/p1.png)
 
     // role selection 
     
@@ -62,25 +63,30 @@ view [src/name](src/name) for knowing adminname and password.
   a) Login :
 
    The manager can login with the provided username and password.
+   ![images/p2.png](images/p2.png)
 
   b) Change password :
 
    Admin has the scope to change his/her password .
 
 ##### Admin page :
+![images/p4.png](images/p4.png)
 
    a) View Menu :
 
    Admin can view the list of items(food/drinkS) that are in menu card upon clicking "view menu" button.
+   ![images/p5.png](images/p5.png)
 
    b) Drop items :
 
    Admin can drop the items by clicking drop button .
+   ![images/p7.png](images/p7.png)
 
    c) Add items :
 
    Admin can add food items with the respective prices to the menu card. If he/she wants to change price/change name of the 
    item , he/she can drop that item and can add again.
+   ![images/p6.png](images/p6.png)
 
    d) Logout :
 
@@ -97,6 +103,7 @@ view [src/name](src/name) for knowing username and password.
    a) Login :
 
    The customer can login with the provided username and password.
+   ![images/p8.png](images/p8.png)
 
    b) Change password :
 
@@ -105,10 +112,12 @@ view [src/name](src/name) for knowing username and password.
 ##### User page :
 
 Upon opening it , menu card will be seen if he presses food and drink buttons.
+![images/p9.png](images/p9.png)
 
    a) Cart :
 
    Customer can add items to the cart and can see/modify them in cart page .
+   ![images/p10.png](images/p10.png)
 
    Cart page has place order button .
       		
@@ -119,8 +128,10 @@ Upon opening it , menu card will be seen if he presses food and drink buttons.
    c) My orders :
 
    Customer can view his past order details in myorders page .
+   ![images/p11.png](images/p11.png)
 
 ##### Final thank you page :
 
 Customer is greeted with Thank You page , indicating the successfull order .
+![images/p13.png](images/p13.png)
 
