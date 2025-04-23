@@ -22,6 +22,8 @@
 
 → GUI : Java swing 
 
+→ Data is stored in text files .
+
 ## About the project :
 ###  User 
 
